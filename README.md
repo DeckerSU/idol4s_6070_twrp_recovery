@@ -3,11 +3,7 @@
 # TWRP Idol 4S Crowdfunding
 
 Document Revision: 1.0a 
-
-***
-**[ RU ]** 
-***
-
+Languages: [RU](#Предисловие) / [EN](#foreword)
 
 ## Предисловие
 
@@ -63,10 +59,7 @@ Document Revision: 1.0a
 
 * Среда, 07. Июнь 2017 11:05 - начало сбора средств (0.1 BTC) на приобретение аппарата.
 
-
-***
 ** [EN] **
-***
 
 ## Foreword
 
