@@ -59,8 +59,6 @@ Languages: [RU](#Предисловие) / [EN](#foreword)
 
 * Среда, 07. Июнь 2017 11:05 - начало сбора средств (0.1 BTC) на приобретение аппарата.
 
-** [EN] **
-
 ## Foreword
 
 As you probably already know, I'm the author of the Alcatel Flasher (Sahara & Firehose Test) tool, designed to backup and restore partitions of some Alcatel based devices on Qualcoom platform, as well as the author of the first working TWRP Recovery for the younger model Idol 4 6055K with full userdata decryption support. For those who are not familiar with these projects, here are a few links:
