@@ -2,8 +2,8 @@
 
 # TWRP Idol 4S Crowdfunding
 
-Document Revision: 1.0a 
-Languages: [RU](#Предисловие) / [EN](#foreword)
+* Document Revision: 1.0a 
+* Languages: [RU](#Предисловие) / [EN](#foreword)
 
 ## Предисловие
 
@@ -58,6 +58,7 @@ Languages: [RU](#Предисловие) / [EN](#foreword)
 ## Текущий статус проекта
 
 * Среда, 07. Июнь 2017 11:05 - начало сбора средств (0.1 BTC) на приобретение аппарата.
+* Пятница, 09. Июнь 2017 07:33 - первое пожертвование **0.01294021 BTC**, начало положено.
 
 ## Foreword
 
@@ -112,3 +113,4 @@ Thus, by participating in the fund-raising campaign, you are not financing me pe
 ## Current Project Status
 
 * Wednesday, 07. June 2017 11:05 - the beginning of fundraising (0.1 BTC) for the Idol 4 6070 purchase .
+* Friday, 09. June 2017 07:33 - the first donation **0.01294021 BTC**, this is just begin.
